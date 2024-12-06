@@ -13,6 +13,7 @@
 body {
     background-color: #efecec;
     font-family: var(--primary-font);
+    color: #252525bf;
 }
 /* Header color */
 .announcment-1 {
@@ -27,5 +28,13 @@ body {
 /* Navigation */ 
 
 #navbar {
-    background-color: var(--secondary-color);
+    background-color: var(--highlight-color);
+    justify-content: center;
+}
+h2 {
+    margin: 20px 0;
+    font-size: 40px;
+}
+.nav-item {
+    font-size: 20px;
 }
