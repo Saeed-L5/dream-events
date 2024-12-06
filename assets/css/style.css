@@ -49,6 +49,11 @@ h2 {
 #header .card {
     margin-bottom: 1.5rem;
 }
+/* Our Service section */
+#our-service .service-img {
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
 /* Footer Section */
 #contact {
     background-color: var(--primary-color);
