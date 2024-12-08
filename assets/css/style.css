@@ -21,7 +21,7 @@ body {
 /* Header color */
 .announcment-1 {
     background-color: var(--secondary-color);
-    color: #efecec;
+    color: #4a4a4b;
 }
 .announcment-2 {
     background-color: var(--primary-color);
@@ -44,7 +44,7 @@ h2 {
 /* Header */
 #header .card-body {
     background-color: var(--secondary-color);
-    color: #efecec;
+    color: #4a4a4b;
 }
 #header .card {
     margin-bottom: 1.5rem;
@@ -53,7 +53,7 @@ h2 {
 #our-service .card {
     background-color: #c8adad;
     justify-content: center;
-    color: #efecec;
+    color: #4a4a4b;
     padding-top: 1px;
 }
 #our-service .card {
