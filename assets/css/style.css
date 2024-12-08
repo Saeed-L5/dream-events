@@ -80,3 +80,9 @@ h2 {
         margin-bottom: 4rem;
     }
 }
+/* Small screens and up */
+@media screen and (max-width: 576px) {
+    #contact .text {
+        text-align: center;
+    }
+}
