@@ -13,7 +13,7 @@
 body {
     background-color: #efecec;
     font-family: var(--primary-font);
-    color: #252525bf;
+    color: var(--primary-color);
 }
 .raleway {
     font-family: var(--secondary-font);
@@ -21,7 +21,7 @@ body {
 /* Header color */
 .announcment-1 {
     background-color: var(--secondary-color);
-    color: #4a4a4b;
+    color: var(--primary-color);
 }
 .announcment-2 {
     background-color: var(--primary-color);
@@ -44,16 +44,16 @@ h2 {
 /* Header */
 #header .card-body {
     background-color: var(--secondary-color);
-    color: #4a4a4b;
+    color: var(--primary-color);
 }
 #header .card {
     margin-bottom: 1.5rem;
 }
 /* Our Service section */
 #our-service .card {
-    background-color: #c8adad;
+    background-color: var(--secondary-color);
     justify-content: center;
-    color: #4a4a4b;
+    color: var(--primary-color);
     padding-top: 1px;
 }
 #our-service .card {
