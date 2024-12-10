@@ -5,8 +5,8 @@
 :root {
     --primary-font: "Abel", sans-serif;
     --secondary-font: "Raleway", sans-serif;
-    --primary-color: #4a4a4b;
-    --secondary-color: #c8adad;
+    --primary-color: #2B2B2B;
+    --secondary-color: #CCB2B2;
     --highlight-color: #efecec;
 }
 /* Global styles */
@@ -110,14 +110,14 @@ h2 {
     }
     /* Make our process cards look responsive */
     #our-process .card {
-        min-width: 313px;
+        min-width: 311px;
     }
 }
 /* xl devices (laptops, 1200px and up ) */
 @media screen and (min-width: 1200px) {
     /* Make our process cards look responsive */
     #our-process .card {
-        max-width: 268px;
+        max-width: 266px;
     }
 }
     
