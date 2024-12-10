@@ -83,6 +83,8 @@ h2 {
 #our-process .card {
     margin-left: 0.5rem;
     font-size: 1.2rem;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
 }
 #our-process .card-body {
     padding: 20px;
