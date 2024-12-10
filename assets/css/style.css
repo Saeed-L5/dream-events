@@ -71,6 +71,14 @@ h2 {
 #header-events p {
     font-family: var(--secondary-font);
 }
+/* Our events section */
+#our-events .card {
+    margin-bottom: 2rem;
+}
+#our-events .card-body {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
 /* Footer Section */
 #contact {
     background-color: var(--primary-color);
