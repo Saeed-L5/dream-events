@@ -79,6 +79,19 @@ h2 {
     background-color: var(--secondary-color);
     color: var(--primary-color);
 }
+/* Our process */
+#our-process .card {
+    margin-left: 0.5rem;
+    font-size: 1.2rem;
+}
+#our-process .card-body {
+    padding: 20px;
+}
+#our-process .row {
+    margin: 0 10px;
+
+}
+
 /* Footer Section */
 #contact {
     background-color: var(--primary-color);
@@ -95,7 +108,20 @@ h2 {
     #our-service .card {
         margin-bottom: 4rem;
     }
+    /* Make our process cards look responsive */
+    #our-process .card {
+        min-width: 313px;
+    }
 }
+/* xl devices (laptops, 1200px and up ) */
+@media screen and (min-width: 1200px) {
+    /* Make our process cards look responsive */
+    #our-process .card {
+        max-width: 268px;
+    }
+}
+    
+
 /* Small screens and up */
 @media screen and (max-width: 576px) {
     #contact .text {
