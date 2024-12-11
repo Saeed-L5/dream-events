@@ -93,7 +93,11 @@ h2 {
     margin: 0 10px;
 
 }
-
+/* contact page */
+#contact-us .row {
+    margin: 10px 2px 10px 2px;
+    padding: 0 10px;
+}
 /* Footer Section */
 #contact {
     background-color: var(--primary-color);
