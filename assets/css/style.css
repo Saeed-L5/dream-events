@@ -1,3 +1,4 @@
+
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
@@ -32,7 +33,9 @@ body {
 
 #navbar {
     background-color: var(--highlight-color);
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 }
 h2 {
     margin: 20px 0;
@@ -52,12 +55,16 @@ h2 {
 /* Our Service section */
 #our-service .card {
     background-color: var(--secondary-color);
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     color: var(--primary-color);
     padding-top: 1px;
 }
 #our-service .card {
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     border: none;
 }
 #our-service .card-body {
