@@ -67,6 +67,26 @@ The form is styled using Bootstrap components and includes validation to ensure 
 
 ## Setup and Installation
 
+## Testing
+-   Accessibility
+    -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible.
+    
+    ![Screenshot of Lighthouse result](/assets/images/lighthouse_score.png)
+ 
+-   I tested and confirmed that the page works in different browsers; Chrome, Safari and Firefox.
+-   I tested and confirmed that all internal links are working and redirecting the user between the pages.
+-   I tested that all external links, to social media sites, are woking and opening in a separate tab.
+-   I tested and confirmed that the contact form works, all fields are required, the radio buttons are required (one of them), the email field only accepts email address, and the submit button link works:
+![Screenshot of the Code institute page that is displayed when submitting the form](/assets/images/code_institute_form.png)
+
+-   HTML
+    -   No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
+![Screenshot of the HTML Validator result](/assets/images/html_validator.png)
+
+-   CSS
+    -   No errors found when running the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) 
+![Screenshot of the CSS validator result](/assets/images/css_validator.png)    
+
 ## Deployment
 
 ### Version Control
