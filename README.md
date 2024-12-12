@@ -76,7 +76,7 @@ The form is styled using Bootstrap components and includes validation to ensure 
 -   I tested and confirmed that the page works in different browsers; Chrome, Safari and Firefox.
 -   I tested and confirmed that all internal links are working and redirecting the user between the pages.
 -   I tested that all external links, to social media sites, are woking and opening in a separate tab.
--   I tested and confirmed that the contact form works, all fields are required, the radio buttons are required (one of them), the email field only accepts email address, and the submit button link works:
+-   I tested and confirmed that the contact form works, all fields are required, the email field only accepts email address, and the submit button link works:
 ![Screenshot of the Code institute page that is displayed when submitting the form](/assets/images/img-code-institute-form.png)
 
 -   HTML
@@ -86,6 +86,9 @@ The form is styled using Bootstrap components and includes validation to ensure 
 -   CSS
     -   No errors found when running the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) 
 ![Screenshot of the CSS validator result](/assets/images/img-css-validator.png)    
+
+## Bugs
+- No bugs
 
 ## Deployment
 
@@ -109,3 +112,19 @@ The form is styled using Bootstrap components and includes validation to ensure 
 -   Click on HTTPS and copy the repository link
 -   Open the IDE of your choice and and paste the copied git url into the IDE terminal
 -   The project is now created as a local clone
+
+## Wireframes
+-   The initial design and layout of the Dream Events webpage were planned using the Balsamiq wireframing tool. Each wireframe showcases the design across three screen sizes: 320px (mobile), 768px (tablet), and 1400px (desktop).
+
+- Home Page Wireframe
+
+
+![screenshot of home page wire frame](assets/images/img-wireframe-home.png)
+
+- Events Page Wireframe
+
+![screenshot of event page wire frame](assets/images/img-wireframe-event.png)
+
+- Contact Page Wireframe
+
+![screenshot of contact page wire frame](assets/images/img-wireframe-contact.png)
