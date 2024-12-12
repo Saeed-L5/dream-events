@@ -128,3 +128,12 @@ The form is styled using Bootstrap components and includes validation to ensure 
 - Contact Page Wireframe
 
 ![screenshot of contact page wire frame](assets/images/img-wireframe-contact.png)
+
+## Credits
+-   A special thanks to my Mentor for the support and answering all my Questions!
+### Content
+-   The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)   
+The social media links to Facebook, Instagram and Twitter are the Main links and not belong to Dream Events.
+-   The Favicon in the Title of the page was taken from [Favicon](https://favicon.io/emoji-favicons/)
+### Media
+-   The images in the home page, events page and the contact page was taken with permision from [Kgdreamevents](https://www.instagram.com/kgdreamevents/)
